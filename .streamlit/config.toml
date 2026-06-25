@@ -1,0 +1,4 @@
+# Neutral theme — tones the accent down from Streamlit's default loud red
+# (used on multiselect tags, sliders, etc.) to a muted slate-blue.
+[theme]
+primaryColor = "#3F5C77"

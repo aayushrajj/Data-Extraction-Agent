@@ -1,0 +1,5 @@
+openai>=1.66          # Responses API (client.responses.create)
+python-dotenv>=1.0
+# UI (for the review app):
+streamlit>=1.49       # st.navigation / st.Page + width="stretch"
+pandas>=2.0
